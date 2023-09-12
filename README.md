@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">- [Proyecto 1](https://github.com/Ronald0tero/poblacion): Este repositorio contiene una aplicación Shiny en R.<br>- [Proyecto 2](https://github.com/Ronald0tero/Spotify_2023):  Este proyecto es un R Markdown que analiza datos de canciones.<br>- [Proyecto 3](https://github.com/Ronald0tero/Accidentalidad_Bquilla): Este proyecto contiene el análisis de accidentalidad en la ciudad de Barranquilla</p>
+<p align="left">- [Población](https://github.com/Ronald0tero/poblacion): Este repositorio contiene una aplicación Shiny en R.<br>- [Spotify](https://github.com/Ronald0tero/Spotify_2023):  Este proyecto es un R Markdown que analiza datos de canciones.<br>- [Accidentalidad](https://github.com/Ronald0tero/Accidentalidad_Bquilla): Este proyecto contiene el análisis de accidentalidad en la ciudad de Barranquilla</p>
 
 ###
 
