@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programación: R, CSS matemáticas<br>📚 Herramientas: RMarkdown, Shiny<br>🎯 Estadística: Análisis de datos, modelado estadístico<br>🎲 Otros: Manejo de informes automatizados, APIs, ETLs, Mathlab</p>
+<p align="left">✨ Programación: R, CSS matemáticas<br>📚 Herramientas: RMarkdown, Shiny<br>🎯 Estadística: Análisis de datos, modelado estadístico<br>🎲 Otros: Manejo de informes automatizados, APIs, ETLs</p>
 
 ###
 
